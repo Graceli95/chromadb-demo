@@ -18,11 +18,11 @@ First things first, let's get ChromaDB installed. We'll use pip, Python's packag
 
 ```bash
 # Create a virtual environment to keep your project dependencies isolated
-python -m venv chromadb_env
+python -m venv venv
 
 # Activate the virtual environment
 # On macOS/Linux:
-source chromadb_env/bin/activate
+source venv/bin/activate
 # On Windows:
 # chromadb_env\Scripts\activate
 
