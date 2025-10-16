@@ -16,8 +16,18 @@ In this guide, we'll learn how to use ChromaDB to store and search through a com
 
 First things first, let's get ChromaDB installed. We'll use pip, Python's package installer.
 
-```python
-%pip install -Uq chromadb
+```bash
+# Create a virtual environment to keep your project dependencies isolated
+python -m venv chromadb_env
+
+# Activate the virtual environment
+# On macOS/Linux:
+source chromadb_env/bin/activate
+# On Windows:
+# chromadb_env\Scripts\activate
+
+# Now install ChromaDB in the virtual environment
+pip install chromadb
 ```
 
 -----
