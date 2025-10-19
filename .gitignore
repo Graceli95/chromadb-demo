@@ -3,6 +3,9 @@
 # Anyone can recreate it using: python -m venv venv && pip install -r requirements.txt
 venv/
 
+# Environment variables (contains API keys - never commit!)
+.env
+
 # Python cache files
 __pycache__/
 *.py[cod]
