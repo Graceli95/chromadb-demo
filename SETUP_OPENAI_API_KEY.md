@@ -288,6 +288,6 @@ If you find issues with this setup guide or have suggestions for improvement, pl
 
 ---
 
-**Last Updated:** October 19, 2025  
+**Last Updated:** October 18, 2025  
 **Tested On:** macOS 13+ with zsh
 
