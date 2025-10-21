@@ -1,0 +1,21 @@
+# Cursor AI Ignore File
+# Files and directories listed here will be ignored by Cursor's indexing
+
+# Python virtual environment
+venv/
+
+# ChromaDB persistent storage (binary files)
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+
+# Git directory
+.git/
+
